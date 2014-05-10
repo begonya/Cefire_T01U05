@@ -1,0 +1,2 @@
+contenido del primer fichero
+a partir de aqui intentaré incorporar estos cambios con gitk+gui
